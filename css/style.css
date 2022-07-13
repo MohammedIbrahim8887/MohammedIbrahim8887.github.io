@@ -33,7 +33,7 @@ body {
 }
 
 .first_container {
-    background-image: url("\img/background2.jpg");
+    background-image: url("main/img/background2.jpg");
     max-width: 1920px;
     height: 800px;
     background-repeat: no-repeat;
