@@ -6,7 +6,8 @@ body {
 .info_header {
     display: flex;
     flex-direction: row;
-    background-color: #BF5F82;
+    background: rgb(33, 150, 243);
+    background: linear-gradient(90deg, rgba(33, 150, 243, 1) 35%, rgba(187, 222, 251, 1) 100%);
 }
 
 .street,
