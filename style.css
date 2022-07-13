@@ -33,7 +33,7 @@ body {
 }
 
 .first_container {
-    background-image: url("file:///C:/Users/25194/Documents/GitHub/Creamy.github.io/img/background2.jpg");
+    background-image: url("/img/background2.jpg");
     max-width: 1920px;
     height: 800px;
     background-repeat: no-repeat;
