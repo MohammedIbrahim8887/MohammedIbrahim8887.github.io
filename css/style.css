@@ -33,8 +33,10 @@ body {
 }
 
 .first_container {
-    background: rgb(236, 64, 122);
-    background: linear-gradient(90deg, rgba(236, 64, 122, 1) 35%, rgba(244, 143, 177, 1) 100%);
+    background-image: url("\img/background2.jpg");
+    max-width: 1920px;
+    height: 800px;
+    background-repeat: no-repeat;
 }
 
 .nav_header {
